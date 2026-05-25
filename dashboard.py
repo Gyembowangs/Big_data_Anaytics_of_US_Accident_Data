@@ -448,8 +448,8 @@ elif page == "Temporal":
     st.markdown('</div>', unsafe_allow_html=True)
     st.markdown("""
     <div class="insight">
-        The bimodal distribution is unmistakable — accident frequency mirrors commuter traffic volumes exactly.
-        The PM peak (4–5pm) is slightly higher than AM (7–8am), suggesting <strong>fatigue and end-of-day distraction</strong> play a role.
+        The hourly curve shows a clear bimodal pattern with peaks in the AM (7–8am) and PM (4–5pm), matching typical commuter traffic.
+        The slightly larger evening peak suggests end-of-day driving factors such as fatigue and distraction may be contributing, but the chart itself reflects timing rather than a proven cause.
     </div>
     """, unsafe_allow_html=True)
 
